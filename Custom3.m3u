@@ -25,19 +25,23 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Noursat.lb" tvg-logo="https://i.imgur.com/6Zs5rx4.png" group-title="Arabic",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Clip HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2743.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Music HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/184.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Classic HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/183.m3u8
-#EXTINF:-1 group-title="BeinSport",Bein Sport HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2568.m3u8
-#EXTINF:-1 group-title="BeinSport",Bein Sport News HD
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2567.m3u8
-#EXTINF:-1 group-title="BeinSport",Bein Sport HD1 1080i
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/127.m3u8
-#EXTINF:-1 group-title="BeinSport",Bein Sport HD2 1080i
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/128.m3u8
-#EXTINF:-1 group-title="BeinSport",Bein Sport HD3 1080i
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/129.m3u8
+#EXTINF:-1 tvg-id="beINPremium1.qa" tvg-name="beIN Premium 1" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Premium 1
+http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINPremium2.qa" tvg-name="beIN Premium 2" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Premium 2
+http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINPremium3.qa" tvg-name="beIN Premium 3" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Premium 3
+http://212.224.98.207:2200/EX/bein10hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 1
+http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 2
+http://212.224.98.207:2200/EX/bein2hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 3
+http://212.224.98.207:2200/EX/bein3hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports 4" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 4
+http://212.224.98.207:2200/EX/bein4hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 5
+http://212.224.98.207:2200/EX/bein5hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports 6" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 6
+http://212.224.98.207:2200/EX/bein6hd-ar/index.m3u8?token=
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports 7" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 7
+http://212.224.98.207:2200/EX/bein7hd-ar/index.m3u8?token=
