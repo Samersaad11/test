@@ -25,14 +25,12 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Noursat.lb" tvg-logo="https://i.imgur.com/6Zs5rx4.png" group-title="Arabic",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-
 #EXTINF:-1 group-title="Rotana",Rotana Clip HD
 http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2743.m3u8
 #EXTINF:-1 group-title="Rotana",Rotana Music HD
 http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/184.m3u8
 #EXTINF:-1 group-title="Rotana",Rotana Classic HD
 http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/183.m3u8
-
 #EXTINF:-1 group-title="BeinSport",Bein Sport HD
 http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2568.m3u8
 #EXTINF:-1 group-title="BeinSport",Bein Sport News HD
