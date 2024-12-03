@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Drama+" tvg-logo="#" group-title="MBC",MBC Drama+ HD (1080p)
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2690.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.AE" tvg-logo="#" group-title="MBC",MBC Masr (1080p)
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/2186.m3u8
+#EXTINF:-1 tvg-id="MBC1HD.AE" tvg-logo="#" group-title="MBC",MBC1 HD (1080p)
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/46.m3u8
+#EXTINF:-1 tvg-id="MBC2HD.AE" tvg-logo="#" group-title="MBC",MBC2 HD (1080p)
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/26.m3u8
+#EXTINF:-1 tvg-id="MBC3HD.AE" tvg-logo="#" group-title="MBC",MBC3 HD (1080p)
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/47.m3u8
+#EXTINF:-1 tvg-id="MBC4HD.AE" tvg-logo="#" group-title="MBC",MBC4 HD (1080p)
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/27.m3u8
+#EXTINF:-1 tvg-id="MBCIRAQHD.AE" tvg-logo="#" group-title="MBC",MBC IRAQ HD (1080p)
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14444.m3u8
