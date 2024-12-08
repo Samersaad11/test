@@ -25,37 +25,27 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="Noursat.lb" tvg-logo="https://i.imgur.com/6Zs5rx4.png" group-title="Arabic",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="beINPremium1.qa" tvg-name="beIN Premium 1" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Premium 1
-http://212.224.98.207:2200/EX/bein8hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINPremium2.qa" tvg-name="beIN Premium 2" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Premium 2
-http://212.224.98.207:2200/EX/bein9hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINPremium3.qa" tvg-name="beIN Premium 3" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Premium 3
-http://212.224.98.207:2200/EX/bein10hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN Sports 1" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 1
-http://212.224.98.207:2200/EX/bein1hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="beIN Sports 2" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 2
-http://212.224.98.207:2200/EX/bein2hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="beIN Sports 3" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 3
-http://212.224.98.207:2200/EX/bein3hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="beIN Sports 4" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 4
-http://212.224.98.207:2200/EX/bein4hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 5
-http://212.224.98.207:2200/EX/bein5hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="beIN Sports 6" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 6
-http://212.224.98.207:2200/EX/bein6hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="beIN Sports 7" tvg-country="QA" tvg-language="Arabic" tvg-logo="" group-title="Sports",beIN Sports 7
-http://212.224.98.207:2200/EX/bein7hd-ar/index.m3u8?token=
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="Arabic",Sky News Arabia (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="Arabic",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="Arabic",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="Arabic",Al Jazeera Arabic (1080p)
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="Arabic",Syria TV (1080p)
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="Arabic",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="Arabic",Al-Sharqiya News (1080p)
+#EXTINF:-1 tvg-id="DubaiTV.ae" tvg-logo="https://i.imgur.com/wZMkKF7.png" group-title="Arabic",Dubai TV (1080p)
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DubaiZaman.ae" tvg-logo="https://i.imgur.com/5Q5qMzP.png" group-title="Arabic",Dubai Zaman (1080p) [Not 24/7]
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/EfKe3ae.png" group-title="Arabic",DW Arabic (1080p)
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="Arabic",Sama Dubai (1080p)
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SamaTV.sy" tvg-logo="https://i.imgur.com/9DoOxD0.png" group-title="Arabic",Sama TV (578p) [Not 24/7]
+https://app.sama-tv.net/hls/samatv.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCIJXOvggjKtCagMfxvcCzAA.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="News",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae" tvg-logo="https://i.imgur.com/NXFkYFj.png" group-title="News",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera Arabic (1080p)
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="https://i.imgur.com/RMaLsmi.png" group-title="News",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",Al-Sharqiya News (1080p)
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
